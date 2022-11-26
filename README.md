@@ -4,7 +4,7 @@ Client-Server Communication System
 
 Basic Idea behind the Project: For the successful completion of a project on time in the software industry, it is very important for the administration, project leaders, and the team members, i.e. the programmers should have smooth and regular communication among themselves. So, it becomes really important to have a platform to do so. Hence we have our Client-Server Communication System.
 
-##Project Description:
+# Project Description:
 A web-based project developed in ASP.NET, allows the administrator to communicate between the project leaders and programmers and allows them to maintain the login and logout time. The project also maintains offline messages, i.e. the messages that were sent online, can be viewed even when you are offline, but obviously, you cannot send any message when you are offline. The main features of the Client-Server Communication system are
 
 Sending Messages: The project leader can interact with each and every programmer using this software.
