@@ -13,7 +13,6 @@ Login and Logout Time: When a programmer logs in, the login time is recorded and
 Hence, admin is the highest in the hierarchy, and then come the project leaders, and the lowest level in the hierarchy is that of the programmers.
 The Link to a sample Chat-Application (example for Client Server Communication) along with its source code is given below. You can refer to it and make your own version of it.
 
-[![Deploy App](https://github.com/IEvangelist/signalr-chat/actions/workflows/blazing-chat.yml/badge.svg)](https://github.com/IEvangelist/signalr-chat/actions/workflows/blazing-chat.yml)
 
 ## Run locally
 
